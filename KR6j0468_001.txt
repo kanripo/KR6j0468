@@ -1,20 +1,21 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 11:14
+#+DATE: 2016-06-08 11:15
 #+TITLE: 阿吒薄𤘽付囑呪
 #+PROPERTY: CBETA_ID T21n1240
 #+PROPERTY: ID KR6j0468
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1240
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS CBETA
 #+PROPERTY: LASTPB <pb:KR6j0468_T_000-0202b>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0468_T_001-0202b> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No. 1240¶
-阿吒薄𤘽付囑呪¶
+No.1240¶
+
+ 阿吒薄𤘽付囑呪¶
 ¶
 
 南無阿吒薄𤘽摩俱吒耶　摩訶藥叉那耶¶
